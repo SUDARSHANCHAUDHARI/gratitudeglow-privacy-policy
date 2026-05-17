@@ -1,13 +1,5 @@
 # GratitudeGlow Privacy Policy
 
-This repository contains the public privacy policy for GratitudeGlow.
-
-- Privacy policy: [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
-- Web version: https://sudarshanchaudhari.github.io/gratitudeglow-privacy-policy/
-- Contact: sunny.sudarshan@gmail.com
-
-# GratitudeGlow Privacy Policy
-
 **Effective Date:** May 17, 2026
 _Last updated: May 17, 2026_
 **Version:** 1.1.0
@@ -221,4 +213,3 @@ The app collects only the data needed for the features described in this policy,
 
 - **Aligned policy with the shared privacy-policy structure.**
 - **Clarified Firebase account sync, journal content, retention, and deletion rights.**
-
